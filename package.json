@@ -1,0 +1,14 @@
+{
+  "name": "open-router-port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nat-upnp": "^1.1.1"
+  }
+}
